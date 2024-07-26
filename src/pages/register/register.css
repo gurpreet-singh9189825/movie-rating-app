@@ -1,0 +1,63 @@
+.form-container {
+  padding: 0px 30px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  border-radius: 10px;
+  flex: 0 1 40%;
+  min-height: 550px;
+  margin-top: 10px;
+  box-shadow: 0px 0px 1px 1px black;
+}
+
+.registration-form {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.submit-button {
+  background-color: red;
+  padding: 10px 20px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.submit {
+  text-align: center;
+  margin-top: 20px;
+  flex: 0 1 100%;
+}
+.have-account {
+  flex: 0 1 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.bg-image {
+  display: flex;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../../assets/nf.jpeg");
+  background-size: cover;
+  background-position: center;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+@media (max-width: 576px) {
+  .form-container {
+    flex: 0 1 100%;
+  }
+}
+
+@media (min-width: 577px) and (max-width: 768px) {
+  .form-container {
+    flex: 0 1 100%;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .form-container {
+    flex: 0 1 80%;
+  }
+}

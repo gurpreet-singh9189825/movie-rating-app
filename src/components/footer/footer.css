@@ -1,0 +1,15 @@
+footer {
+  display: flex;
+  justify-content: flex-end;
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.5);
+  position: relative;
+  z-index: 2;
+}
+.c-name {
+  text-decoration: none;
+  color: blue;
+
+  border-radius: 5px;
+  background-color: lightgray;
+}

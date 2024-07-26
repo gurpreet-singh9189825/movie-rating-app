@@ -1,0 +1,17 @@
+.radio-label {
+  display: inline-block;
+  width: 60px;
+}
+
+.radio {
+  accent-color: purple;
+}
+.flex-child5 {
+  flex: 0 1 100%;
+  padding: 10px 2px;
+  display: flex;
+  margin-top: 10px;
+}
+.flex-child {
+  flex: 0 1 50%;
+}

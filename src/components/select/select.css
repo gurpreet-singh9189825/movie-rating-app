@@ -1,0 +1,15 @@
+.select {
+  box-shadow: 0 2px 5px black;
+  width: 100%;
+  padding: 10px 2px;
+  outline: none;
+  border: solid 1px black;
+  font-weight: bold;
+}
+option {
+  background-color: white;
+}
+.flex-child6 {
+  flex: 0 1 100%;
+  margin-top: 10px;
+}

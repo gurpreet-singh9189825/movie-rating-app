@@ -1,0 +1,46 @@
+.navbar {
+  position: relative;
+  min-height: 56px;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 3;
+}
+
+.nav {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  color: white;
+  padding-top: 5px;
+}
+
+.logo,
+.register,
+.login {
+  margin-right: auto;
+  text-decoration: none;
+  color: blue;
+  padding: 5px;
+  border-radius: 5px;
+  background-color: lightgray;
+}
+.register {
+  margin-right: 20px;
+}
+
+.links-welcome {
+  text-decoration: none;
+  color: blue;
+
+  border-radius: 5px;
+  background-color: lightgray;
+}
+
+.logout {
+  margin-top: 5px;
+  text-decoration: none;
+  color: blue;
+  display: inline-block;
+  border-radius: 5px;
+  background-color: lightgray;
+  cursor: pointer;
+}

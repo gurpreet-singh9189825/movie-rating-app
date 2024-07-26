@@ -1,0 +1,25 @@
+.screen-container {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: red;
+  border: solid 2px black;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 30px;
+  min-height: 250px;
+}
+.welcome {
+  color: blue;
+  display: inline-block;
+  border-radius: 5px;
+  background-color: lightgray;
+  cursor: pointer;
+}
+.intro {
+  color: red;
+
+  border-radius: 5px;
+  background-color: black;
+  cursor: pointer;
+}

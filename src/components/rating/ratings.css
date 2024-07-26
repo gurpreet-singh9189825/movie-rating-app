@@ -1,0 +1,11 @@
+.rating {
+  font-size: 20px;
+  color: orange;
+  cursor: pointer;
+}
+
+.edit-stars {
+  font-size: 35px;
+  color: orange;
+  cursor: pointer;
+}
