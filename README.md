@@ -13,10 +13,13 @@
  - Rating and reviewing movies
 
  # installation
- -clone the repository
- -run npm install
- -npm run dev
-- open local host server mention in cmd after running npm run dev
+ - clone the repository
+ - run npm install
+ - npm run dev
+ - open local host server mention in cmd after running npm run dev
+
+# important
+project might not run as expected due to removal of api keys.
 
 Created by Gurpreet Singh -"https://github.com/gurpreet-singh9189825" feel free to contact me!
 
