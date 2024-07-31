@@ -15,7 +15,7 @@
  -npm run dev
 - open local host server mention in cmd after running npm run dev
 
-Created by Gurpreet Singh - feel free to contact me!
+Created by Gurpreet Singh -"https://github.com/gurpreet-singh9189825" feel free to contact me!
 
 
 
