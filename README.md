@@ -1,3 +1,35 @@
+# movie rating App
+ A web application to rate and review movies
+
+ ## overview
+ This app allow user to search for or look for favourite genre and movies and overview them and rate them on 5 star rate scale.
+ 
+ # features
+ -User authentication
+ -Movie search and filter
+ -Rating and reviewing movies
+
+ #installation
+ clone the repository
+ run npm install
+ npm run dev
+open local host server mention in cmd after running npm run dev
+
+Created by Gurpreet Singh - feel free to contact me!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
